@@ -1,4 +1,6 @@
-### Hi there 👋
+### Buenas! 👋
+
+Actualmente estoy trabajando en el proyecto integrador del curso de Full-Stack Web-Developer en *Digital House*.
 
 <!--
 **agusnarvaez/agusnarvaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
