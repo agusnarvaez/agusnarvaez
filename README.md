@@ -1,6 +1,6 @@
 ### Buenas! 👋
 
-* Actualmente estoy trabajando en el proyecto integrador del curso de Full-Stack Web-Developer en *Digital House*.
+* Actualmente estoy trabajando en proyectos para armar mi portfolio
 * Estudiando tecnicatura en programación informática en Universidad de San Martín
 
 ### LinkedIn: https://www.linkedin.com/in/narvaezagustin/
