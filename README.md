@@ -9,7 +9,9 @@
 ### [Metro Futuro](https://metro-futuro.com) 🏡
 ![image](https://github.com/agusnarvaez/agusnarvaez/assets/71536606/0f57765a-653f-4faf-ae9a-be4963c8d7cf)
 
+En este proyecto, el cliente necesitaba mostrar las propiedades que querían tokenizar, cursos y artículos de blog, por lo que decidí utilizar como CMS Contentful, el cual le permitió a mi cliente gestionar sus propiedades, cursos y artículos de forma autónoma.
 Este es mi primer proyecto al cual le tengo mucho afecto ya que me brindó muchísima experiencia y siempre encuentro algo para mejorarlo, lo cual me hace ser consciente del progreso tanto en mí como profesiona, como en el proyecto.
+
   - Tecnologías:
     - React.js
     - Emailjs
