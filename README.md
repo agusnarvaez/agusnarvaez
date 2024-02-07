@@ -58,7 +58,7 @@ El mayor desafío en este proyecto fue su urgencia, ya que se trató de un proye
   - [Repositorio API](https://github.com/agusnarvaez/fontenla-quest-api)
   - [Repositorio React.js](https://github.com/agusnarvaez/fontenla-quizz-front)
 
-### Paula Dallochio
+### [Paula Dallochio](https://pauladallochio.com.ar/) :house_with_garden:
 ![image](https://github.com/agusnarvaez/agusnarvaez/assets/71536606/71168a14-61af-46c2-a6af-5d450549b1b6)
 Este fue mi primer proyecto con Angular. Se trata de una landing para Paula Dallochio, quien está comenzando su camino como corredora inmobiliaria independiente y me eligió para que le realice su página web. La misma cuenta con las mínimas características de una landing (Home, About y Contact) y además, cuenta con el listado de propiedades, las cuales algunas provienen de TokkoBrokers y otras de Sanity.
 El mayor desafío en este proyecto fue su integración con las distintas plataformas TokkoBrokers y Sanity y su unificación el el listado, sin mencionar los filtros. También fue un desafío la integración de AWS SES para empezar a manejar los mails. También fue un desafío comenzar a realizar proyectos con Angular y utilizando Typescript.
@@ -70,14 +70,26 @@ El mayor desafío en este proyecto fue su integración con las distintas platafo
   - [Repositorio Sanity](https://github.com/agusnarvaez/pau-dallochio-sanity)
   - [Repositorio Angular.js](https://github.com/agusnarvaez/pau-dallochio-landing-page)
 
-### Bodach
-### Verónica Killian
-### WorldCapp (UNSAM)
+
+### [Verónica Killian](https://veritokillian.ar/) :house_with_garden:
+![image](https://github.com/agusnarvaez/agusnarvaez/assets/71536606/3471e773-4631-4385-bd84-ac5fc6065dc9)
+Este fue mi primer segundo proyecto con Angular. Se trata de una landing para Verónica Killian, quien al igual que Paula Dallochio está comenzando su camino como corredora inmobiliaria independiente y me eligió para que le realice su página web. La misma cuenta con las mínimas características de una landing (Home, About y Contact) y además, cuenta con el listado de propiedades, las cuales algunas provienen de TokkoBrokers. En este caso el desafío fue reutilizar el código de Paula Dallochio.
+- Tecnologías:
+    - Angular.js
+    - AWS SES
+    - Sanity
+    - TokkoBrokers
+    - [Repositorio Angular.js](https://github.com/agusnarvaez/vero-killian-landing-page)
+
+
+
 
 
 ### LinkedIn: https://www.linkedin.com/in/narvaezagustin/
 
 <!--
+### Bodach
+### WorldCapp (UNSAM)
 **agusnarvaez/agusnarvaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
