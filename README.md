@@ -82,7 +82,14 @@ Este fue mi primer segundo proyecto con Angular. Se trata de una landing para Ve
     - [Repositorio Angular.js](https://github.com/agusnarvaez/vero-killian-landing-page)
 
 
+### [ABUK](https://abuk.bapps.com.ar/) 📀🎵
+![image](https://github.com/agusnarvaez/agusnarvaez/assets/71536606/2ea1dc03-4b8f-46a8-b0bd-5fa6d099fab4)
 
+Este proyecto se trata de la landing para ABUK, productor musical y dj quien necestiaba en un diseño minimalista, ofrecer sus servicios de Mix & Mastering, detallar sus clases de producción, contar un poco de su vida profesional y acercar su contacto a quienes lo necesitan.
+- Tecnologías:
+    - React.ts
+    - AWS SES
+    - [Repositorio React.ts]([https://github.com/agusnarvaez/vero-killian-landing-page](https://github.com/agusnarvaez/abuk-landing-page))
 
 
 ### LinkedIn: https://www.linkedin.com/in/narvaezagustin/
