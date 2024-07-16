@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > - Trabajo para Yappa como desarrollador en el area de finanzas
-> - También realizo trabajos de manera freelance
+> - También realizo proyectos de manera freelance
 > - Estudiando tecnicatura en programación informática en Universidad de San Martín
 
 ## Proyectos Profesionales :briefcase:
@@ -90,7 +90,7 @@ Este proyecto se trata de la landing para ABUK, productor musical y dj quien nec
 - Tecnologías:
     - React.ts
     - AWS SES
-    - [Repositorio React.ts]([https://github.com/agusnarvaez/vero-killian-landing-page](https://github.com/agusnarvaez/abuk-landing-page))
+    - [Repositorio React.ts](https://github.com/agusnarvaez/abuk-landing-page)
 
 
 ## Proyectos Académicos :mortar_board:
