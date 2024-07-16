@@ -2,10 +2,11 @@
 
 
 > [!IMPORTANT]
-> - Actualmente estoy trabajando en proyectos para expandir mi portfolio
+> - Trabajo para Yappa como desarrollador en el area de finanzas
+> - También realizo trabajos de manera freelance
 > - Estudiando tecnicatura en programación informática en Universidad de San Martín
 
-## Proyectos :
+## Proyectos Profesionales :briefcase:
 ### [Metro Futuro](https://metro-futuro.com) 🏡
 ![image](https://github.com/agusnarvaez/agusnarvaez/assets/71536606/0f57765a-653f-4faf-ae9a-be4963c8d7cf)
 
@@ -26,7 +27,7 @@ Este es mi segundo proyecto, el cual originalmente fue mas ambicioso, pero final
     - Emailjs
   - [Repositorio](https://github.com/agusnarvaez/la-cheminee-react)
 
-### [Quintas del Oeste](https://testing.barrioquintas.com.ar/) 🏘️
+### [Barrio Quintas](https://barrioquintas.com.ar/) 🏘️
 ![image](https://github.com/agusnarvaez/agusnarvaez/assets/71536606/c2837eee-e944-4be2-87fd-0f2e7780573c)
 
 Este es mi primer proyecto que es 100% FullStack. La página en sí, es una landing que permite a través de un mapa interactivo, reservar un lote del barrio privado, abonando a través de la pasarela de Mercado Pago, además, cuenta con un panel administrador para el cliente, el cual puede ver el listado de lotes, editarlos y ver sus reservas.
@@ -90,6 +91,72 @@ Este proyecto se trata de la landing para ABUK, productor musical y dj quien nec
     - React.ts
     - AWS SES
     - [Repositorio React.ts]([https://github.com/agusnarvaez/vero-killian-landing-page](https://github.com/agusnarvaez/abuk-landing-page))
+
+
+## Proyectos Académicos :mortar_board:
+### Cartas mágicas (Sistemas de procesamientos de datos - [UNSAM](https://unsam.edu.ar/)):
+Este es mi primer proyeto ideado y diseñado por mí dentro de la facultad, por lo que le tengo un gran aprecio, ya que fue el comienzo de esta gran aventura y donde me reencontré con un viejo conocido para compartir este camino, [Tomás Venturini](https://github.com/TV3ntu). Para la materia SPD nos dieron la tarea de hacer un juego con lenguaje Assembler (x8086) y decidimos ser conservadores y hacer algo que esté a nuestro alcance, pero bien hecho y creo que lo conseguimos, porque se gestó siempre como un proyecto y no como un trabajo práctico. Pensamos la idea, creamos el repositorio y si bien no tuvimos las mejores prácticas en GIT, creo que para ser el primer proyecto salió muy muy bien. El juego en sí se trata de "adivinar" el número que eligió la persona utilizando cartas con números.
+- [TP SPD - UNSAM](https://github.com/user-attachments/files/16250481/TP.SPD.-.UNSAM.pdf)
+- [Repositorio](https://github.com/TV3ntu/TPSPD)
+- Tecnologías:
+  - Lenguaje Assembler x8086
+
+### Atrapa el Jabalí (Algoritmos 1 - [UNSAM](https://unsam.edu.ar/)):
+En esta etapa, comenzamos a "volar" un poco más, también con [Tomás](https://github.com/TV3ntu) cursé Algoritmos 1 y nos tocó también realizar un juego, pero esta vez en [Wollok](https://www.wollok.org/) lo cual fue muy útlil para entender programación orientada a objetos.
+El juego es del estilo "survival" donde el ojbetivo en atrapar todos los jabalíes antes de que se acabe el tiempo. También se pueden plantar trampas para los jabalíes facilitando la tarea. Este juego es muy apreciado por mí, ya que tiene un poco del folklore de la UNSAM, al estar basado en el día que un jabalí se metió en la universidad y fotografiaron a un guardia de seguridad en el aire al intentar atraparlo, inmortalizando así el siguiente meme:
+![image](https://github.com/user-attachments/assets/48a8a2c3-9192-4eaf-8b7b-113595a14c2e)
+
+La portada del juego está basada en esta fotografía:
+![image](https://github.com/user-attachments/assets/cf98aa57-76a3-46b1-b3d8-274804a47191)
+
+- [Repositorio](https://github.com/algo1unsam/tpgame-losjabali)
+- Tecnologías:
+  - Wollok
+  - Wollok Game
+
+### WorldcApp ([Algoritmos 2](https://algo2.uqbar-project.org) y [Algoritmos 3](https://algo3.uqbar-project.org/) - [UNSAM](https://unsam.edu.ar/)):
+Este es un proyecto transversal a 2 materias, el cual es mucho mas completo que cualquier bootcamp que se pueda encontrar en el mercado hoy. Esta etapa fue completamente transformadora a nivel personal, ya que aparte del gran compañero que tenía, se sumaron dos compañeros al grupo que me hicieron crecer como profesional a pasos agigantados, [Franco Nicotra](https://github.com/fmnicotra12) y [Tobías Riccone](https://github.com/tobiasriccone). Mis agradecimientos al gran equipo.
+En Algoritmos 2, se busca profundizar en programación orientada a objetos, metodologías de desarrollo patrones de diseño y testing. Esta materia la considero transformadora no solo por su contenido en sí, sino por que en esta cursada es donde aparece uno de mis referentes a la hora de programar, (me pongo de pie) [Fernando Dodino](https://www.linkedin.com/in/fernando-dodino-ba63487/). Dodino no es solo un profesor, es un facilitador por naturaleza, con su basta experiencia motiva y transmite su conocimiento hallanando así el camino para los que venimos detrás de el. Si hay una persona que justifica la carrera entera de [TPI](https://unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica) en la [UNSAM](https://unsam.edu.ar/) es Fernando. Retomando lo técnico, para programar se utiliza Kotlin, que está basado en java y resulta mas amigable para entender y a la vez robusto y completo como Java, lo cual lo hace un aliado super equilibrado y potente para el aprendizaje y para futuros proyectos.
+Para este proyecto se propuso seguir una guía para la necesidad y plantear la solución. Se utilizaron por primera vez metodologías ágiles al realizar checkpoints cada 2 o 3 semanas de los TP's con objetivos a medida. Claramente en esta primer materia, solo se enfocó en resolver el problema de negocio y no en brindar una interfaz, problema que se abordaría en Algoritmos 3.
+
+Algotritmos 3 se basa mayormente en interfaces de usuario y Arquitectura Web. A lo largo de esta materia, se explicará primero, como funciona la comunicación entre un Cliente y Servidor a la hora de ingresar a una web, para brindar una introducción al framework Spring+Springboot, aplicando dicho framework a la aplicación creada en Algoritmos 2. Se introduce al frontend a través del maquetado con HTML y CSS y una vez cumplido este apartado, se pasa a explicar Angular para desarrollar la interfaz de usuario de WorldCApp y posteriormente React para el apartado del administrador, dejando en claro las diferencias entre ambas tecnologías y sus pros y contras. Para finalizar, además de todo lo aprendido, se explica testeo unitario y testeo de punta a punta con Cypress, logrando de esta manera, que Algoritmos 3 sea una materia completísima donde se aprende enserio. Al igual que en Algoritmos 2, se utilizan metodologías ágiles para organizar las entregas. También en esta cursada se sumó un integrante más al grupo, otro eslavón muy importante, [Ignacio Rosa](https://github.com/ilrosaunsam).
+
+- Repositorios
+  - [Repositorio Backend](https://github.com/algo3-unsam/worldcapp-2023-backend-grupo-3)
+  - [Repositorio Frontend - Angular](https://github.com/algo3-unsam/worldcapp-2023-grupo-3)
+  - [Repositorio Frontend - React](https://github.com/algo3-unsam/worldcapp-2023-react-grupo-3)
+- Tecnologías:
+  - Kotlin
+  - Spring
+  - Springboot
+  - Angular.js
+  - React.js
+  - Cypress
+ 
+### Noches mágicas ([Progrmación con herramientas modernas](https://phm.uqbar-project.org/) - [UNSAM](https://unsam.edu.ar/)):
+Esta es la última materia de un gran ciclo con el profesor [Fernando Dodino](https://www.linkedin.com/in/fernando-dodino-ba63487/), donde se completa de una manera excepcional. A lo largo de esta materia, se enseñan las diferentes formas de persistir los datos de una aplicación y cuáles son sus pro y contras frente las distintas necesidades de la solución. Para esta materia, en la primer entrega se junta todo lo visto en Algo 2 y 3, exprimitendo en esta etapa, todo el potencial del equipo, ya que lo que antes se hizo en 8 meses, ahora se realiza en 1 mes. Para la segunda entrega, se persisten los datos en una base SQL como Postgres y sorteando los problemas que puedan surgir de la configuración. Para la tercer entrega, se utiliza MongoDB para una parte de la aplicación. Para la última entrega, se hace la integración de Neo4J y Redis, terminando de esta manera con una aplicación políglota desde el lado de bases de datos.
+Esta materia hace que se tome conciencia real de lo aprendido anteriormente y de cuanto se puede aprender en un cautrimestre, cerrando el camino del programador Full Stack.
+- Repositorios
+  - [Repositorio Backend](https://github.com/phm-unsam/backend-2024-grupo-5)
+  - [Repositorio Frontend](https://github.com/phm-unsam/frontend-2024-grupo-5)
+- Tecnologías
+  - Angular.js
+  - Kotlin
+  - Spring
+  - Springboot
+  - Postgresql
+  - MongoDB
+  - Redis
+  - Neo4J
+ 
+### [WeekBook](weekbook.online) (Proyectos de Software - [UNSAM](https://unsam.edu.ar/))
+Esta materia viene a completar la formación del desarrollador Full Stack, ya que se enfoca en asentar las bases de las metodologías de desarrollo, explicando gestión de proyetos, Metodologías Ágiles y SCRUM. Para esta materia se solicita buscar un problema y realizar una propuesta de solución llevando a cabo el desarrollo del mismo para entregar en cada Sprint un MVP, intentando lograr los objetivos fijados a principio de cursada. Esta la considero otra materia fundamental tanto si sos desarrollador como PM, ya que servirá para ambos puestos y entender como fluye el trabajo. Personalmente es una materia que sufrí pero me encantó, ya que me dió herramientas para desenvolverme como PM, rol al que aspiro a largo plazo. Si yo no sabría programación, considero que un verdadero bootcamp podría ser Algoritmos 1, 2 y 3, PHM y PDS, ya que dan bases sólidas para crear soluciones de calidad desde su concepción y gestionar dichos proyectos correctamente.
+
+- [WeekBook - Presentación de proyecto.pdf](https://github.com/user-attachments/files/16253168/WeekBook.-.Presentacion.de.proyecto.pdf)
+- [Tablero del proyecto](https://github.com/users/TV3ntu/projects/1)
+- Repositorios:
+  - [Frontend](https://github.com/TV3ntu/PDS-2024-frontend)
+  - [Backend](https://github.com/TV3ntu/PDS-2024-backend)
 
 
 ### LinkedIn: https://www.linkedin.com/in/narvaezagustin/
