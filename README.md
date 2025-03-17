@@ -83,7 +83,7 @@ Este fue mi primer segundo proyecto con Angular. Se trata de una landing para Ve
     - [Repositorio Angular.js](https://github.com/agusnarvaez/vero-killian-landing-page)
 
 
-### [ABUK](https://abuk.bapps.com.ar/) 📀🎵
+### [ABUK](https://djabuk.com/) 📀🎵
 ![image](https://github.com/agusnarvaez/agusnarvaez/assets/71536606/2ea1dc03-4b8f-46a8-b0bd-5fa6d099fab4)
 
 Este proyecto se trata de la landing para ABUK, productor musical y dj quien necestiaba en un diseño minimalista, ofrecer sus servicios de Mix & Mastering, detallar sus clases de producción, contar un poco de su vida profesional y acercar su contacto a quienes lo necesitan.
@@ -91,6 +91,14 @@ Este proyecto se trata de la landing para ABUK, productor musical y dj quien nec
     - React.ts
     - AWS SES
     - [Repositorio React.ts](https://github.com/agusnarvaez/abuk-landing-page)
+
+ ### [SIEMPRE WP-APP](https://siempre.bapps.com.ar/) 🚚📦
+<img width="934" alt="image" src="https://github.com/user-attachments/assets/4a27c868-3fa3-43f3-bfbd-82208628c930" />
+
+Este proyecto es una aplicación sencilla que genera en base a un archivo Excel (.CSV) una tabla con los envíos y sus correspondientes links de whatsapp para dar aviso a los receptores de mercadería.
+- Tecnologías:
+    - React.ts
+    - [Repositorio React.ts]([https://github.com/agusnarvaez/abuk-landing-page](https://github.com/agusnarvaez/siempre-app-wp))
 
 
 ## Proyectos Académicos :mortar_board:
