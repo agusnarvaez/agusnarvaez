@@ -100,6 +100,12 @@ Este proyecto es una aplicación sencilla que genera en base a un archivo Excel 
     - React.ts
     - [Repositorio React.ts]([https://github.com/agusnarvaez/abuk-landing-page](https://github.com/agusnarvaez/siempre-app-wp))
 
+### [Bernesa](https://www.bernesa.com/) 🥫🥘
+![image](https://github.com/user-attachments/assets/11eb6542-12e7-412f-bb4c-34cf2ac07ffc)
+Este proyecto fue un rediseño y redesarrollo de la página que había quedado en el tiempo. Además, se le agregó manejo de artículos de blog personalizado con Sanity, para que el cliente tenga manejo autónomo.
+- Tecnologías:
+    - React - [Repositorio](https://github.com/agusnarvaez/bernesa-front)
+    - Sanity - [Repositorio](https://github.com/agusnarvaez/bernesa-sanity)
 
 ## Proyectos Académicos :mortar_board:
 ### Cartas mágicas (Sistemas de procesamientos de datos - [UNSAM](https://unsam.edu.ar/)):
